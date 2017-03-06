@@ -1,0 +1,13 @@
+{
+    "name": "jctan/greenroom-helper",
+    "authors": [
+        {
+            "name": "Jc Tan",
+            "email": "omegachien@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+       "illuminated/helper-functions": "1.*"
+    }
+}
