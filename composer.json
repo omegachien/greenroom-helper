@@ -6,7 +6,7 @@
             "email": "omegachien@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "require": {
        "illuminated/helper-functions": "1.*"
     }
